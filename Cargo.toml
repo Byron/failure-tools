@@ -12,7 +12,7 @@
 
 [package]
 name = "failure-tools"
-version = "4.0.2"
+version = "4.0.3"
 authors = ["Sebastian Thiel <byronimo@gmail.com>"]
 description = "Various tools to be used in conjunction with the 'failure' crate."
 documentation = "https://docs.rs/failure-tools"
