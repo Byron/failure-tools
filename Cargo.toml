@@ -1,6 +1,6 @@
 [package]
 name = "failure-tools"
-version = "4.0.4"
+version = "4.0.5"
 edition = "2018"
 authors = ["Sebastian Thiel <byronimo@gmail.com>"]
 description = "Various tools to be used in conjunction with the 'failure' crate."
