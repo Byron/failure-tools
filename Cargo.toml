@@ -4,9 +4,9 @@ version = "4.0.5"
 edition = "2018"
 authors = ["Sebastian Thiel <byronimo@gmail.com>"]
 description = "Various tools to be used in conjunction with the 'failure' crate."
-include = ["src/**/*", "Cargo.toml", "LICENSE.md"]
 license = "MIT"
 repository = "https://github.com/Byron/failure-tools"
+include = ["src/lib.rs", "LICENSE.md", "README.md"]
 
 [lib]
 doctest = false
